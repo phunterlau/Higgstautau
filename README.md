@@ -1,4 +1,4 @@
 Higgstautau
 ===========
 
-Source code for Kaggle Higgs Tau Tau search
+Source code for Higgs Tau Tau search
